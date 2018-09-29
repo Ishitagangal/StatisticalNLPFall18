@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Ishita
+   last: Gangal
+email: ig1043@nyu.edu
+leaderboard: ishitag
