@@ -823,7 +823,7 @@ compared	VBN
 to	IN
 donating	VBG
 in	IN
-ten	JJ
+ten	NN
 years	NNS
 .	.
 
@@ -1654,8 +1654,8 @@ alleged	JJ
 in	IN
 the	DT
 book	NN
-Disposable	NNP
-Patriot	NNP
+Disposable	JJ
+Patriot	NN
 ,	,
 by	IN
 Jack	NNP
@@ -5155,7 +5155,7 @@ Massoud	NNP
 and	CC
 Maryam	NNP
 ,	,
-salute	VB
+salute	NN
 them	PRP
 and	CC
 shout	VB
@@ -5408,7 +5408,7 @@ like	IN
 that	IN
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	NN
+http://www.laweekly.com/general/features/satan-loves-you/13454/	JJ
 
 "	NNP
 Another	DT
@@ -5643,7 +5643,7 @@ What	WP
 about	RB
 Manson	NNP
 's	POS
-tees	VBZ
+tees	NNS
 bearing	VBG
 the	DT
 message	NN
@@ -5732,7 +5732,7 @@ indeed	RB
 I	PRP
 detect	VBP
 the	DT
-hissing	NN
+hissing	VBG
 lisp	NN
 of	IN
 the	DT
@@ -5744,7 +5744,7 @@ article	NN
 .	.
 
 The	DT
-deathly	RB
+deathly	JJ
 inversion	NN
 of	IN
 truth	NN
@@ -5996,7 +5996,7 @@ new	JJ
 ,	,
 marvelous	JJ
 ,	,
-intoxicating	JJ
+intoxicating	NN
 .	.
 
 -	HYPH
@@ -6286,8 +6286,8 @@ festivals	NNS
 across	IN
 Europe	NNP
 ,	,
-handing	NN
-out	IN
+handing	VBG
+out	RP
 leaflets	NNS
 and	CC
 quizzing	VBG
@@ -7395,7 +7395,7 @@ anyone	NN
 read	VB
 the	DT
 letter	NN
-purportedly	NN
+purportedly	JJ
 from	IN
 Ahmadinejad	NNP
 to	IN
@@ -8325,7 +8325,7 @@ media	NNS
 are	VBP
 having	VBG
 a	DT
-hissy	NN
+hissy	JJ
 fit	NN
 over	IN
 Venezuela	NNP
@@ -9856,7 +9856,7 @@ These	DT
 are	VBP
 1	CD
 )	)
-Assassinate	NN
+Assassinate	NNP
 or	CC
 overthrow	VB
 Gen.	NNP
@@ -10574,7 +10574,7 @@ Kurds	NNPS
 The	DT
 problem	NN
 of	IN
-mollifying	NN
+mollifying	VBG
 the	DT
 Sunnis	NNP
 ,	,
@@ -10909,8 +10909,8 @@ there	EX
 ,	,
 since	IN
 local	JJ
-Sunnis	NNS
-either	RB
+Sunnis	NNP
+either	DT
 remain	VBP
 committed	VBN
 to	TO
@@ -10966,7 +10966,7 @@ an	DT
 elevation	NN
 of	IN
 the	DT
-Shiites	NNPS
+Shiites	NNP
 and	CC
 Kurds	NNPS
 ,	,
@@ -11852,7 +11852,7 @@ was	VBD
 done	VBN
 with	IN
 dark	JJ
-ulterior	NN
+ulterior	JJ
 motives	NNS
 that	WDT
 can	MD
@@ -14866,7 +14866,7 @@ picking	VBG
 up	RP
 from	IN
 radical	JJ
-Islamist	NNP
+Islamist	NN
 terrorists	NNS
 .	.
 
@@ -17420,8 +17420,8 @@ Wahhabi	NNP
 school	NN
 of	IN
 Islam	NNP
-that	IN
-predominates	NNS
+that	WDT
+predominates	VBZ
 among	IN
 Saudia	NNP
 's	POS
